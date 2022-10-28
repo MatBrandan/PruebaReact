@@ -1,0 +1,19 @@
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+
+h1{
+    font-style: italic;
+    
+}
+
+button:hover{
+    background-color: #A90015;
+}
+
+.navButtons{
+    display:flex;
+    flex-wrap: wrap;
+}
